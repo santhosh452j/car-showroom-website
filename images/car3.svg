@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Silver sedan placeholder illustration</title>
+  <rect width="640" height="360" fill="#edf0f3"/>
+  <circle cx="520" cy="75" r="36" fill="#f3c66a"/>
+  <path d="M0 263h640v97H0z" fill="#cbd9de"/>
+  <path d="M90 225h63l67-74c14-16 31-23 54-23h151c26 0 45 10 65 29l54 68h24c17 0 28 11 28 25v24H73v-24c0-15 7-25 17-25z" fill="#657f91"/>
+  <path d="M236 158c10-11 20-16 37-16h151c17 0 30 7 44 21l44 55H185z" fill="#c7e2e5"/>
+  <path d="M365 145v75" stroke="#657f91" stroke-width="7"/>
+  <circle cx="190" cy="276" r="33" fill="#172b3a"/><circle cx="190" cy="276" r="14" fill="#d9e3e7"/>
+  <circle cx="520" cy="276" r="33" fill="#172b3a"/><circle cx="520" cy="276" r="14" fill="#d9e3e7"/>
+</svg>

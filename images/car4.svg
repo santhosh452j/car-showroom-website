@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Green SUV placeholder illustration</title>
+  <rect width="640" height="360" fill="#eaf1e9"/>
+  <circle cx="520" cy="75" r="36" fill="#f3c66a"/>
+  <path d="M0 263h640v97H0z" fill="#c5dbca"/>
+  <path d="M91 213h38l39-73c11-19 27-29 51-29h184c25 0 44 12 59 33l45 69h36c16 0 27 11 27 26v35H72v-35c0-15 7-26 19-26z" fill="#3b8067"/>
+  <path d="M180 144c8-13 19-19 38-19h185c18 0 31 8 42 23l37 61H146z" fill="#c7e2e5"/>
+  <path d="M332 128v83" stroke="#3b8067" stroke-width="8"/>
+  <circle cx="179" cy="278" r="34" fill="#172b3a"/><circle cx="179" cy="278" r="15" fill="#d9e3e7"/>
+  <circle cx="516" cy="278" r="34" fill="#172b3a"/><circle cx="516" cy="278" r="15" fill="#d9e3e7"/>
+</svg>

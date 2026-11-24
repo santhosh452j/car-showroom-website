@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Blue hatchback placeholder illustration</title>
+  <rect width="640" height="360" fill="#e6f1f3"/>
+  <circle cx="520" cy="75" r="36" fill="#f3c66a"/>
+  <path d="M0 263h640v97H0z" fill="#c6ddd9"/>
+  <path d="M110 225h46l53-68c13-17 28-25 51-25h130c25 0 43 10 59 29l47 64h36c15 0 25 11 25 25v24H83v-24c0-15 11-25 27-25z" fill="#267aa0"/>
+  <path d="M220 163c9-12 19-17 35-17h132c17 0 29 7 41 22l39 54H178z" fill="#b9e2e8"/>
+  <path d="M325 147v76" stroke="#267aa0" stroke-width="7"/>
+  <circle cx="193" cy="276" r="33" fill="#172b3a"/><circle cx="193" cy="276" r="14" fill="#d9e3e7"/>
+  <circle cx="506" cy="276" r="33" fill="#172b3a"/><circle cx="506" cy="276" r="14" fill="#d9e3e7"/>
+</svg>

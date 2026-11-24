@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" role="img" aria-labelledby="title description">
+  <title id="title">Blue car on a scenic road</title>
+  <desc id="description">A simple blue car illustration on a pale green background.</desc>
+  <rect width="800" height="440" rx="28" fill="#d9f0e9"/>
+  <circle cx="650" cy="90" r="44" fill="#f3c66a"/>
+  <path d="M0 310c130-55 240-35 365 6s267 51 435-15v139H0z" fill="#a9d8c8"/>
+  <path d="M0 356c180-40 351 7 514 12 104 3 202-17 286-52v124H0z" fill="#81bca9"/>
+  <path d="M126 283h64l58-83c16-23 36-35 65-35h157c30 0 53 13 73 38l54 80h40c18 0 31 14 31 32v28H95v-32c0-16 13-28 31-28z" fill="#075b78"/>
+  <path d="M278 203c11-15 24-22 44-22h147c22 0 39 9 54 28l46 67H229z" fill="#b9e2e8"/>
+  <path d="M393 182v94" stroke="#075b78" stroke-width="8"/>
+  <path d="M238 282h357" stroke="#06465d" stroke-width="7"/>
+  <circle cx="222" cy="339" r="39" fill="#172b3a"/>
+  <circle cx="222" cy="339" r="18" fill="#d9e3e7"/>
+  <circle cx="583" cy="339" r="39" fill="#172b3a"/>
+  <circle cx="583" cy="339" r="18" fill="#d9e3e7"/>
+  <path d="M115 315h51m491-1h43" stroke="#f3c66a" stroke-width="10" stroke-linecap="round"/>
+</svg>
